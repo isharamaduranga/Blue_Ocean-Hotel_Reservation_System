@@ -3,7 +3,7 @@ A hotel reservation system allows a guest to plan their own trip at their conven
 
 ## Description
 
-#### This Application is single Alone Application.And this Application developed for solving some problems of Hotel_Reservation_System and gives best Efficient service for them
+#### This Application is single Alone Application.And this Application developed for solving some problems of Hotel_Reservation_System and gives best Efficient service for all Customers.
 
 ## Main Functions of Application
 * Login Interface
